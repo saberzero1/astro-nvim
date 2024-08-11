@@ -23,8 +23,16 @@ You can also just clone this repository directly if you do not want to track you
 
 #### Clone the repository
 
+`bash`
+
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/saberzero1/astro-nvim ~/.config/nvim
+```
+
+`pwsh`
+
+```shell
+git clone https://github.com/saberzero1/astro-nvim $env:LOCALAPPDATA\nvim
 ```
 
 #### Start Neovim
