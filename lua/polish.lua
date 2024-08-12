@@ -18,6 +18,6 @@
 -- }
 
 -- relative line numbers
-vim.api.nvim_create_autocmd("BufEnter", {
-  command = "set nornu nu",
-})
+-- vim.api.nvim_create_autocmd("BufEnter", {
+--   command = "set nornu nu",
+-- })
