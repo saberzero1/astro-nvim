@@ -11,7 +11,7 @@ return {
   -- https://docs.astronvim.com/recipes/colorscheme/
   { import = "astrocommunity.colorscheme.catppuccin" },
   -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/completion/copilot-lua-cmp
-  { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
   -- https://docs.astronvim.com/recipes/vscode/
   { import = "astrocommunity.recipes.vscode" },
   -- https://docs.astronvim.com/recipes/neovide/
