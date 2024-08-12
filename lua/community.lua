@@ -34,7 +34,7 @@ return {
   -- Preferences
   -- 
   -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/workflow/bad-practices-nvim
-  { import = "astrocommunity.workflow.bad-practices" },
+  { import = "astrocommunity.workflow.bad-practices-nvim" },
   -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/split-and-window/minimap-vim
   { import = "astrocommunity.split-and-window.minimap-vim" },
   
